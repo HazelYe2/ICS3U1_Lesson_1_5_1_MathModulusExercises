@@ -16,5 +16,8 @@ class Circumference extends ConsoleProgram {
 
     // Solve for circumference
     dblCircumference = (Math.PI * 2 * dblRadius);
+
+    // Print out the circumference
     System.out.println("The circumference is: " + dblCircumference);
-}  
+  } 
+} 
